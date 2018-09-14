@@ -1,0 +1,41 @@
+{
+  "name": "mvc-with-backend",
+  "version": "1.0.0",
+  "description": "Some long text",
+  "main": "index.js",
+  "dependencies": {
+    "cssmin": "^0.4.3",
+    "del": "^3.0.0",
+    "express-basic-auth": "^1.1.4",
+    "express-fileupload": "^0.4.0",
+    "gulp-coffee": "^3.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "gulp-uglify-es": "^1.0.1",
+    "json-server": "^0.12.1",
+    "rollup-plugin-babel": "^3.0.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "gulp": "^3.9.1",
+    "gulp-better-rollup": "^3.1.0",
+    "rollup-plugin-babel": "^3.0.4",
+    "gulp-rigger": "^0.5.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node index.js",
+    "gulp": "gulp",
+    "gulp-css": "gulp styles",
+    "gulp-js": "gulp scripts",
+    "clean": "clean"
+  },
+  "keywords": [
+    "mvc"
+  ],
+  "author": "Sergey",
+  "license": "MIT"
+}

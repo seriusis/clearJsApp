@@ -1,0 +1,560 @@
+{
+  "users": [
+    {
+      "userId": 0,
+      "loginData": {
+        "login": "Johnlogin",
+        "password": "Johnpass"
+      },
+      "mainInfo": {
+        "firstname": "John",
+        "lastname": "Morris",
+        "birthday": 694476000000,
+        "avatar": "/attachments/avatar-dhg.png",
+        "wallpaper": "src/img/iceland.jpg",
+        "contacts": {
+          "city": "Los Angeles57",
+          "email": "JohnMorris@dayrep.com",
+          "telegram": "https://t.me/JohnMorris",
+          "skype": "gfdhb9tor"
+        },
+        "status": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "gender": "male",
+        "friends": [
+          1,
+          2,
+          3
+        ],
+        "job": "Front end"
+      },
+      "otherInfo": {
+        "education": "HOUSTi",
+        "interests": [
+          {
+            "tagId": "2",
+            "ico": "src/img/html5-48.png",
+            "title": "html5"
+          },
+          {
+            "tagId": "7",
+            "ico": "src/img/babelfish.png",
+            "title": "fishing"
+          },
+          {
+            "tagId": "11",
+            "ico": "src/img/angular.png",
+            "title": "angular js "
+          },
+          {
+            "tagId": "5",
+            "ico": "src/img/microphone.png",
+            "title": "I like sing!"
+          }
+        ],
+        "languages": {
+          "uk": {
+            "title": "Ukrainian",
+            "ico": "src/img/uk.png",
+            "status": true
+          },
+          "en": {
+            "title": "English",
+            "ico": "src/img/en.png",
+            "status": true
+          },
+          "ru": {
+            "title": "Russian",
+            "ico": "src/img/ru.png",
+            "status": true
+          }
+        }
+      },
+      "id": 0
+    },
+    {
+      "id": 1,
+      "userId": 1,
+      "loginData": {
+        "login": "Nicklogin",
+        "password": "Nickpass"
+      },
+      "mainInfo": {
+        "firstname": "Nick",
+        "lastname": "Guest",
+        "birthday": 393517188,
+        "avatar": "src/img/nick.png",
+        "wallpaper": "src/img/instagram_16.jpg",
+        "contacts": {
+          "email": "NickG@dayrep.com",
+          "city": "New York",
+          "telegram": "https://t.me/NickG",
+          "skype": "gfdhb9tor"
+        },
+        "status": "My status",
+        "gender": "male",
+        "friends": [
+          0
+        ],
+        "job": "Cooker"
+      },
+      "otherInfo": {
+        "interests": [
+          {
+            "tagId": 0,
+            "title": "travelling",
+            "ico": "src/img/traveling.png"
+          }
+        ],
+        "languages": [
+          {
+            "title": "English",
+            "ico": "src/img/en.png"
+          },
+          {
+            "title": "Ukrainian",
+            "ico": "src/img/ua.png"
+          }
+        ],
+        "education": "HOUSTi"
+      },
+      "photos": [
+        {
+          "url": "src/img/instagram_14.jpg",
+          "title": "Pacific Ocean"
+        },
+        {
+          "url": "src/img/instagram_11.jpg",
+          "title": "Bridge"
+        },
+        {
+          "url": "src/img/instagram_6.jpg",
+          "title": "Street"
+        },
+        {
+          "url": "src/img/instagram_5.jpg",
+          "title": "Building"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "loginData": {
+        "login": "Jesikalogin",
+        "password": "Jesikapass"
+      },
+      "mainInfo": {
+        "firstname": "Jesika",
+        "lastname": "Lars",
+        "birthday": 467563032000,
+        "avatar": "src/img/female.png",
+        "wallpaper": "src/img/instagram_16.jpg",
+        "contacts": {
+          "email": "Jesopera@dayrep.com",
+          "city": "Los Angeles",
+          "telegram": "https://t.me/Jesopera",
+          "skype": "myskypeJes1"
+        },
+        "status": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque.",
+        "gender": "female",
+        "friends": [
+          0,
+          1,
+          3
+        ],
+        "job": "Comic"
+      },
+      "otherInfo": {
+        "interests": [
+          {
+            "tagId": 5,
+            "title": "I like sing!",
+            "ico": "src/img/microphone.png"
+          }
+        ],
+        "languages": {
+          "uk": {
+            "title": "Ukrainian",
+            "ico": "src/img/uk.png",
+            "status": true
+          },
+          "en": {
+            "title": "English",
+            "ico": "src/img/en.png",
+            "status": true
+          },
+          "ru": {
+            "title": "Russian",
+            "ico": "src/img/ru.png",
+            "status": true
+          }
+        },
+        "education": "HOUSTi"
+      },
+      "photos": [
+        {
+          "url": "src/img/instagram_15.jpg",
+          "title": "Pacific Ocean"
+        },
+        {
+          "url": "src/img/instagram_8.jpg",
+          "title": "Bridge"
+        },
+        {
+          "url": "src/img/instagram_10.jpg",
+          "title": "Street"
+        },
+        {
+          "url": "src/img/instagram_9.jpg",
+          "title": "Building"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "loginData": {
+        "login": "Meganlogin",
+        "password": "Meganpass"
+      },
+      "mainInfo": {
+        "firstname": "Megan",
+        "lastname": "Fox",
+        "birthday": 655569432000,
+        "avatar": "src/img/female.png",
+        "wallpaper": "src/img/instagram_16.jpg",
+        "contacts": {
+          "email": "mfox_s@dayrep.com",
+          "city": "Colorado",
+          "telegram": "https://t.me/JohnMorris",
+          "skype": "gfdhb9tor"
+        },
+        "status": "My status : i am star!",
+        "gender": "female",
+        "friends": [
+          0,
+          1,
+          2
+        ],
+        "job": "star"
+      },
+      "otherInfo": {
+        "interests": [
+          {
+            "tagId": 6,
+            "title": "travelling",
+            "ico": "src/img/traveling.png"
+          }
+        ],
+        "languages": {
+          "uk": {
+            "title": "Ukrainian",
+            "ico": "src/img/uk.png",
+            "status": true
+          },
+          "en": {
+            "title": "English",
+            "ico": "src/img/en.png",
+            "status": true
+          },
+          "ru": {
+            "title": "Russian",
+            "ico": "src/img/ru.png",
+            "status": true
+          }
+        },
+        "education": "HOUSTi"
+      },
+      "photos": [
+        {
+          "url": "src/img/instagram_15.jpg",
+          "title": "Pacific Ocean"
+        },
+        {
+          "url": "src/img/instagram_8.jpg",
+          "title": "Bridge"
+        },
+        {
+          "url": "src/img/instagram_10.jpg",
+          "title": "Street"
+        },
+        {
+          "url": "src/img/instagram_9.jpg",
+          "title": "Building"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "loginData": {
+        "login": "testlogin",
+        "password": "testpass"
+      },
+      "mainInfo": {
+        "firstname": "TestName",
+        "lastname": "TestLastname",
+        "birthday": 704731032000,
+        "avatar": "src/img/avatar-dhg.png",
+        "wallpaper": "src/img/iceland.jpg",
+        "contacts": {
+          "email": "JohnMorris@dayrep.com",
+          "city": "Los Angeles",
+          "telegram": "https://t.me/JohnMorris",
+          "skype": "gfdhb9tor"
+        },
+        "status": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms ",
+        "gender": "male",
+        "friends": [
+          1,
+          2,
+          3
+        ],
+        "job": "Front end"
+      },
+      "otherInfo": {
+        "interests": [
+          {
+            "title": "js",
+            "ico": "src/img/nodejs-512.png"
+          },
+          {
+            "title": "html",
+            "ico": "src/img/html5-48.png"
+          }
+        ],
+        "languages": {
+          "uk": {
+            "title": "Ukrainian",
+            "ico": "src/img/uk.png",
+            "status": true
+          },
+          "en": {
+            "title": "English",
+            "ico": "src/img/en.png",
+            "status": true
+          },
+          "ru": {
+            "title": "Russian",
+            "ico": "src/img/ru.png",
+            "status": true
+          }
+        },
+        "education": "HOUSTi",
+        "about": "These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
+      },
+      "photos": [
+        {
+          "url": "src/img/instagram_5.jpg",
+          "title": "Pacific Ocean"
+        },
+        {
+          "url": "src/img/instagram_8.jpg",
+          "title": "Bridge"
+        },
+        {
+          "url": "src/img/instagram_13.jpg",
+          "title": "Street"
+        },
+        {
+          "url": "src/img/instagram_9.jpg",
+          "title": "Building"
+        }
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "postId": 1,
+      "text": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+      "date": 1524556829000,
+      "autorName": "Megan",
+      "autorAvatar": "src/img/nick.png",
+      "autorId": 3
+    },
+    {
+      "postId": 2,
+      "autorId": 0,
+      "autorName": "John",
+      "autorAvatar": "/attachments/avatar-dhg.png",
+      "date": 1527007814000,
+      "text": "test post2",
+      "image": "/attachments/keep-smiling.jpg",
+      "id": 2
+    },
+    {
+      "text": "post on the wall",
+      "image": "/attachments/babelfish.png",
+      "date": 1527249762000,
+      "autorId": 2,
+      "autorName": "Jesika",
+      "autorAvatar": "src/img/female.png",
+      "id": 3
+    },
+    {
+      "postId": 4,
+      "autorId": 1,
+      "autorName": "Nick",
+      "autorAvatar": "src/img/nick.png",
+      "date": 1527333003000,
+      "text": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.",
+      "image": null,
+      "id": 4
+    },
+    {
+      "postId": 5,
+      "autorId": 0,
+      "autorName": "John",
+      "autorAvatar": "/attachments/avatar-dhg.png",
+      "date": 1527335693000,
+      "text": "drink pepsi",
+      "image": "/attachments/pepsi.jpg",
+      "id": 5
+    }
+  ],
+  "friends": [
+    {
+      "id": 0,
+      "userId": 1,
+      "firstname": "Nick",
+      "lastname": "Guest",
+      "avatar": "src/img/nick.png",
+      "city": "New York"
+    },
+    {
+      "id": 1,
+      "userId": 2,
+      "firstname": "Jesika",
+      "lastname": "Lars",
+      "avatar": "src/img/female.png",
+      "city": "Los Angeles"
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "firstname": "Megan",
+      "lastname": "Fox",
+      "avatar": "src/img/female.png",
+      "city": "Colorado"
+    }
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "tagId": 0,
+      "title": "js",
+      "ico": "src/img/nodejs-512.png"
+    },
+    {
+      "id": 1,
+      "tagId": 1,
+      "title": "html",
+      "ico": "src/img/html5-48.png"
+    },
+    {
+      "id": 2,
+      "tagId": 2,
+      "title": "html5",
+      "ico": "src/img/html5-48.png"
+    },
+    {
+      "id": 3,
+      "tagId": 3,
+      "title": "css",
+      "ico": "src/img/css.png"
+    },
+    {
+      "id": 4,
+      "tagId": 4,
+      "title": "css3",
+      "ico": "src/img/css.png"
+    },
+    {
+      "id": 5,
+      "tagId": 5,
+      "title": "I like sing!",
+      "ico": "src/img/microphone.png"
+    },
+    {
+      "id": 6,
+      "tagId": 6,
+      "title": "travelling",
+      "ico": "src/img/traveling.png"
+    },
+    {
+      "id": 7,
+      "tagId": 7,
+      "title": "fishing",
+      "ico": "src/img/babelfish.png"
+    },
+    {
+      "id": 8,
+      "tagId": 8,
+      "title": "reading",
+      "ico": "src/img/reading.png"
+    },
+    {
+      "id": 9,
+      "tagId": 9,
+      "title": "sport | football ",
+      "ico": "src/img/football.png"
+    },
+    {
+      "id": 10,
+      "tagId": 10,
+      "title": "sport | box ",
+      "ico": "src/img/box.png"
+    },
+    {
+      "id": 11,
+      "tagId": 11,
+      "title": "angular js ",
+      "ico": "src/img/angular.png"
+    }
+  ],
+  "gallery": [
+    {
+      "url": "/attachments/unsplash_2.jpg",
+      "name": "Chevrolet2",
+      "description": "Lorem ipsum dol...",
+      "date": 1527008552617,
+      "id": 1
+    },
+    {
+      "url": "http://desktopwallpapers.org.ua/mini/201507/40067.jpg",
+      "name": "Folkswagen1",
+      "description": "Lorem ipsum dol...",
+      "date": 1525960238134,
+      "id": 3
+    },
+    {
+      "url": "http://desktopwallpapers.org.ua/mini/201507/40057.jpg",
+      "name": "Ferrari",
+      "description": "Lorem ipsum dol...",
+      "date": 1526909511282,
+      "id": 4
+    },
+    {
+      "url": "http://desktopwallpapers.org.ua/mini/201507/40059.jpg",
+      "name": "Toyota",
+      "description": "Lorem ipsum dol...",
+      "date": 1525964091255,
+      "id": 9
+    },
+    {
+      "url": "http://desktopwallpapers.org.ua/mini/201302/24864.jpg",
+      "name": "My bike",
+      "description": "about my Bike",
+      "date": 1526909519492,
+      "id": 11
+    },
+    {
+      "url": "http://desktopwallpapers.org.ua/mini/201302/24864.jpg",
+      "name": "Test photo",
+      "description": "4325435r43r34",
+      "date": 1525964850480,
+      "id": 12
+    }
+  ]
+}

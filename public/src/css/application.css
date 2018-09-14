@@ -1,0 +1,139 @@
+/*
+ * Application level styles
+ * (things that dont make sense in a toolkit :)
+ * copyright @colossal 2018
+ */
+
+/* docs overrides */
+img{max-width: 100%;} 
+.a {
+  background-color: #fff;
+  border-color: #d3e0e9;
+}
+
+
+/* general overrides */
+.b .c {
+  line-height: 1.4;
+}
+.d .close {
+  padding-top: 1.4rem;
+}
+strong {
+  font-weight: bold;
+}
+
+
+/* navbar */
+.app-navbar {
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+}
+.app-navbar .form-control {
+  box-shadow: none;
+}
+.app-navbar .e img {
+  width: 85px;
+}
+.app-navbar .f {
+  max-height: inherit;
+}
+.app-navbar .f:after {
+  height: 100vh;
+}
+.app-navbar .form-control {
+  border-color: #1C73A5;
+}
+.app-navbar .g {
+  margin-left: 1rem;
+  padding-bottom: 4px !important;
+  padding-top: 4px !important;
+}
+.g .h:before {
+  font-size: 20px;
+}
+@media (min-width: 768px) {
+  .app-navbar .f:after {
+    height: auto;
+  }
+}
+@media (max-width: 768px) {
+  .i {
+    margin-top: -1px;
+  }
+}
+
+
+/* misc */
+.j {
+  max-width: 280px;
+ /* margin-top: -60px;*/
+}
+.k {
+  margin-right: 10px;
+}
+.l {
+  width: 40%;
+  display: inline-block;
+}
+.l img {
+  width: 100%;
+}
+.form-group{
+  margin:10px 0;
+}
+
+.tagItem:after{
+  position: relative;
+  top: 2px;
+  display: inline-block;
+  font-family: "toolkit-entypo";
+  speak: none;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+#tags .tagItem{margin-right:4px;}
+#selectedInterests .tagItem:after{
+  content: "\EA30";
+}
+#tags .tagItem:after{
+  content: "\EA54";
+}
+.tagItem{margin-top:4px;margin-right:4px}
+.no-events{
+  pointer-events: none;
+}
+.max-width{width:100%;}
+.max-h-300{max-height:300px;}
+
+.alert-fixed{
+  position: fixed;
+  z-index: 9999;
+  padding:7px 12px;
+  top:100px;
+  left:50%;
+  width:300px;
+  margin-left:-150px;
+  background:#fff;
+  font-size: 18px;
+  border-radius: 3px;
+  border: 1px solid green;
+}
+
+.alert-fixed .h{
+  padding: 2px 4px;
+  border-radius: 50%;
+  background: green;
+  color: #fff;
+  margin-right: 5px;
+  font-size: 14px;
+}
+.alert-fixed .h.bga{
+  background:#f0ad4e;
+}
