@@ -7,7 +7,7 @@
     "cssmin": "^0.4.3",
     "del": "^3.0.0",
     "express-basic-auth": "^1.1.4",
-    "express-fileupload": "^0.4.0",
+    "express-fileupload": "^1.1.9",
     "gulp-coffee": "^3.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-cssmin": "^0.2.0",
