@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-better-rollup": "^3.1.0",
     "rollup-plugin-babel": "^3.0.4",
     "gulp-rigger": "^0.5.8"
